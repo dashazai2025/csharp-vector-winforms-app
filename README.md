@@ -1,7 +1,7 @@
 # C# Vector WinForms Application
 ## Screenshot
 
-![Application screenshot](screenshots/winforms-app-main-screen.png.png)
+![Application screenshot](screenshots/app-main-screen.png)
 ## Description
 
 This is a C# Windows Forms application created as an academic project.  
